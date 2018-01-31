@@ -1,24 +1,29 @@
 package com.hw1.part2.www;
 import java.util.Scanner;
-public class circleUser  {
-    public static void main(String[] args){
+import java.text.*;
+public class circleUser {
+    public static void main(String[] args) {
 
 
-        Scanner reader = new Scanner(System.in);
-        System.out.println("enter the radius ");
-        Double n = reader.nextDouble();
-
-
-        while(Scanner.hasNext() )
-        {
-            Circle c1= new Circle(n);
-
-            System.out.println("radius: "+c1.getRadius()+"area: "+c1.getArea());
+        Scanner reader = new Scanner(System.in);//creates the reader object to read in data
+        DecimalFormat df = new DecimalFormat("#.##");//creates decimal format to hundredth
 
         System.out.println("enter the radius ");
-        Double n = reader.nextDouble();
+        do {
 
 
 
+            Double n = reader.nextDouble();
+            Circle c1 = new Circle(n);
+
+            System.out.println("radius: " + (c1.getRadius())+ " area: " + df.format(c1.getArea()) );
+            System.out.println("enter the radius ");
+
+
+        } while (reader.hasNext());//checks for EOF
     }
 }
+
+//i got help from https://stackoverflow.com/questions/8137218/trim-double-to-2-decimal-places
+// this explained how to trim trailing decimals
+
