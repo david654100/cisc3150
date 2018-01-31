@@ -21,4 +21,3 @@ public class Circle {
 }
 
 
-//https://coderanch.com/t/274770/java/check-EOF-Java

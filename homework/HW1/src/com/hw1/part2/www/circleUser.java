@@ -26,4 +26,5 @@ public class circleUser {
 
 //i got help from https://stackoverflow.com/questions/8137218/trim-double-to-2-decimal-places
 // this explained how to trim trailing decimals
-
+//and also from //https://coderanch.com/t/274770/java/check-EOF-Java
+//this explained how to check for EOF in java
