@@ -1,6 +1,6 @@
-package com.hw1.part3.www;
+package com.hw1.question3.www;
 
-public class randomNumber {
+public class question3 {
     public static void main(String[] args){
 
         int month= (int )(Math.random() * 12+ 1);
