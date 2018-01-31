@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7693754a-9ff9-4491-b660-b8a224adbb89" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HW1/com/hw1/part2/www/printoutHw1Part2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HW1/com/hw1/part3/www/output.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hw1/part2/www/Circle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hw1/part2/www/circleUser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hw1/part2/www/printoutHw1Part2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hw1/part3/www/output.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hw1/part3/www/randomNumber.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hw1/question4/question4.java" afterPath="$PROJECT_DIR$/src/com/hw1/question4/question4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hw1/question4/question4Imput.txt" afterPath="$PROJECT_DIR$/src/com/hw1/question4/question4Imput.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +18,8 @@
       <file leaf-file-name="question4.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/hw1/question4/question4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="33">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,16 +89,17 @@
         <option value="$PROJECT_DIR$/src/com/hw1/part4/readFromTheStream.java" />
         <option value="$PROJECT_DIR$/../../../question3.java" />
         <option value="$PROJECT_DIR$/src/com/hw1/question4/readFromTheStream.java" />
-        <option value="$PROJECT_DIR$/src/com/hw1/question4/question4.java" />
         <option value="$PROJECT_DIR$/src/com/hw1/question3/www/randomNumber.java" />
         <option value="$PROJECT_DIR$/src/com/hw1/question2/www/question2circleUser.java" />
         <option value="$PROJECT_DIR$/src/com/hw1/question2/www/question2Circle.java" />
         <option value="$PROJECT_DIR$/src/com/hw1/question3/www/question3.java" />
+        <option value="$PROJECT_DIR$/src/com/hw1/question4/question4.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1908" />
+    <option name="x" value="1538" />
+    <option name="y" value="2" />
     <option name="width" value="1944" />
     <option name="height" value="2082" />
   </component>
@@ -365,7 +360,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1908" y="0" width="1944" height="2082" extended-state="0" />
+    <frame x="1538" y="2" width="1944" height="2082" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -589,8 +584,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hw1/question4/question4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="33">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
