@@ -1,0 +1,12 @@
+C:\Users\david\Desktop\cisc3150\HW1>JAVAC question4.java
+
+C:\Users\david\Desktop\cisc3150\HW1>java question4 < question4Input.txt
+Numbers:
+5
+100
+45
+78
+89
+90
+
+C:\Users\david\Desktop\cisc3150\HW1>

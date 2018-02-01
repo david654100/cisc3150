@@ -1,6 +1,6 @@
 package com.hw1.question2.www;
 
-public class question2Circle {
+public class Circle {
 
     public Circle(double r){
        setRadius(r);
