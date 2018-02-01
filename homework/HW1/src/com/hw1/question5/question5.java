@@ -80,3 +80,8 @@ public class question5 {
     }
 
 }
+//these are thw websites that helped me out
+//https://www.geeksforgeeks.org/arrays-in-java/
+//https://docs.oracle.com/javase/tutorial/essential/exceptions/catch.html
+//https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
+//http://www.mathwarehouse.com/algebra/distance_formula/index.php

@@ -1,0 +1,52 @@
+"C:\Program Files\Java\jdk1.8.0_144\bin\java" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.3\lib\idea_rt.jar=52538:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Users\david\Desktop\cisc3150\homework\HW1\out\production\HW1;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-stdlib.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-reflect.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-test.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-stdlib-jre7.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-stdlib-jre8.jar" com.hw1.question6.question6
+first the x for circle 1
+-10
+next the y for circle 1
+8
+now the radius for circle 1
+30
+first the x for circle 2
+14
+next the y for circle 2
+-24
+now the radius for circle 2
+10
+the circles are touching each other
+
+Process finished with exit code 0
+
+"C:\Program Files\Java\jdk1.8.0_144\bin\java" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.3\lib\idea_rt.jar=52644:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Users\david\Desktop\cisc3150\homework\HW1\out\production\HW1;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-stdlib.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-reflect.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-test.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-stdlib-jre7.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-stdlib-jre8.jar" com.hw1.question6.question6
+first the x for circle 1
+
+10
+next the y for circle 1
+10
+now the radius for circle 1
+10
+first the x for circle 2
+90
+next the y for circle 2
+90
+now the radius for circle 2
+10
+the circles are not touching
+
+Process finished with exit code 0
+
+"C:\Program Files\Java\jdk1.8.0_144\bin\java" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.3\lib\idea_rt.jar=52703:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Users\david\Desktop\cisc3150\homework\HW1\out\production\HW1;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-stdlib.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-reflect.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-test.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-stdlib-jre7.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-stdlib-jre8.jar" com.hw1.question6.question6
+first the x for circle 1
+0
+next the y for circle 1
+0
+now the radius for circle 1
+10
+first the x for circle 2
+5
+next the y for circle 2
+5
+now the radius for circle 2
+10
+the circles are overlapping each other
+
+Process finished with exit code 0
+
