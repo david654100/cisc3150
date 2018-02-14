@@ -1,0 +1,4 @@
+Please enter words separated my commas not space
+hello,word,
+hello
+word

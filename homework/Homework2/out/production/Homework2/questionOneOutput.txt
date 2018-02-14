@@ -1,0 +1,12 @@
+"C:\Program Files\Java\jdk1.8.0_144\bin\java" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.3\lib\idea_rt.jar=57803:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Users\david\Desktop\out\production\hw2;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-stdlib.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-reflect.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-test.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-stdlib-jdk7.jar;C:\Users\david\.IdeaIC2017.2\config\plugins\Kotlin\kotlinc\lib\kotlin-stdlib-jdk8.jar" qestion1.questionOne
+Please enter the height of the pyramid 
+7
+             1
+           1 2 1
+         1 2 3 2 1
+       1 2 3 4 3 2 1
+     1 2 3 4 5 4 3 2 1
+   1 2 3 4 5 6 5 4 3 2 1
+ 1 2 3 4 5 6 7 6 5 4 3 2 1
+
+Process finished with exit code 0

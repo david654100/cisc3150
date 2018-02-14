@@ -50,6 +50,7 @@ public class question5 {
         reader.close();
 
         //calculating the distances of the sides
+
         side1= Math.sqrt((Math.pow((pointB[0] - pointA[0]), 2)) + (Math.pow((pointB[1] - pointA[1]), 2)));
         side2= Math.sqrt((Math.pow((pointC[0] - pointB[0]), 2)) + (Math.pow((pointC[1] - pointB[1]), 2)));
         side3= Math.sqrt((Math.pow((pointA[0] - pointC[0]), 2)) + (Math.pow((pointA[1] - pointC[1]), 2)));

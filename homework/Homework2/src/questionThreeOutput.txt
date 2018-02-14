@@ -1,0 +1,11 @@
+Please enter the word to be checked if it is a palindrome 
+racecar
+the word racecar is a palindrome
+
+Process finished with exit code 0
+
+Please enter the word to be checked if it is a palindrome 
+helloworld
+the word helloworld is not a palindrome
+
+Process finished with exit code 0
