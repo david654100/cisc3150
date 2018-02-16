@@ -1,0 +1,31 @@
+the char at index 5
+W
+
+the length is 
+10
+
+the substring is 
+HelLOW
+
+makes the string lowercase
+helloworld
+
+makes the string uppercase
+HELLOWORLD
+
+
+test
+is the two strings equal: 
+false
+
+get string:
+HelLOWorLd
+
+to string
+HelLOWorLd
+
+value of: 
+2
+
+
+Process finished with exit code 0
