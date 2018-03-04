@@ -1,0 +1,17 @@
+a)The method that is call is E public string call(int K) a method for the dog class. This is an example of overloading.
+
+b)The method that is called is G public String toString() in the Cat Class. This is an exmple of overriding.
+
+c)This would an error and an example of an error.
+
+d)The method called is the method from the class object.
+
+e)The method called is C public String Call() from the dog class. This is an example of overloading.
+
+f)The method Called is H public String ToString(String b) from he cat class. This is an example of overloading.
+
+g)This would cause an error.
+
+H)The method called is B Public String feet() from the Pet Class. This is an example of overrideing/ polymorphism.
+
+I) This would cause an error and is an example of error.
