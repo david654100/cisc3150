@@ -4,7 +4,7 @@ b)The method that is called is G public String toString() in the Cat Class. This
 
 c)This would an error and an example of an error.
 
-d)The method called is the method from the class object.
+d)The method called is the method from the class object. it inherits from object 
 
 e)The method called is C public String Call() from the dog class. This is an example of overloading.
 
