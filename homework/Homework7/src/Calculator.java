@@ -17,7 +17,7 @@ public class Calculator {
         
         oprand1=operatorImput.next();
 
-        if(typeChecker(oprand1)){
+        if(!typeChecker(oprand1)){
             throw new AlebraicFailException("please enter a number");
         }
 
@@ -34,7 +34,7 @@ public class Calculator {
 
         oprand2=operatorImput.next();
 
-        if(typeChecker(oprand2)){
+        if(!typeChecker(oprand2)){
             throw new AlebraicFailException("please enter a number");
         }
         try {
