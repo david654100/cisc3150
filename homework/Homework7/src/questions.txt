@@ -1,0 +1,4 @@
+question 2
+
+the reason for the weird syntex with calling a default implementaion of a method is since you can "inherit" from multiple 
+interfaces that might have the same method the compiler needs to know which interface to call super on.

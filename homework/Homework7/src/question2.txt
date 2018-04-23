@@ -1,4 +1,11 @@
+question 1
+this works because NullPointerException is an instance of Throwable. Therefore once it instaceated it can catch it.
+https://docs.oracle.com/javase/tutorial/essential/exceptions/
+https://www.tutorialspoint.com/java/java_exceptions.htm
 question 2
 
 the reason for the weird syntex with calling a default implementaion of a method is since you can "inherit" from multiple 
 interfaces that might have the same method the compiler needs to know which interface to call super on.
+
+https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html
+https://stackoverflow.com/questions/19976487/explicitly-calling-a-default-method-in-java
