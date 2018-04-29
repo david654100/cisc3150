@@ -1,0 +1,12 @@
+[1-1]
+1  1-
+0
+
+[1/0]
+1  0/
+
+[m-1]
+
+AlebraicFailException please enter a number
+Exception in thread "main" AlebraicFailException
+	at Calc2.main(Calculator.java:21)
