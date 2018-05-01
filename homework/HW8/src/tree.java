@@ -1,17 +1,21 @@
+
+import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.File;
-import java.io.*;
+import  java.io.*;
+
 public class tree {
     public static void main(String[] args) throws IOException {
 
         //opens the file using the pth name
         File folder = new File("\\C:\\Users\\david\\Desktop");
-        String treePrintOut;
+        StringBuilder treePrintOut;
         //this calls the function that will make the fill tree
         treePrintOut=printTree(folder);
-        System.out.print(treePrintOut);
-
-
+        System.out.print(treePrintOut.toString());
+       FileWriter fw = new FileWriter("fileOutput.txt");
+       BufferedWriter bw = new BufferedWriter(fw);
+        bw.append(treePrintOut);
 
 
 
@@ -24,20 +28,20 @@ public class tree {
     /**
      * this function is the driver for printing the tree
      * @param folder this is the folder that will be printed
-     * @return the fully buit file tree string
+     * @return the fully built file tree string
      */
-    public static String printTree(File folder){
+    public static StringBuilder printTree(File folder){
         //tests to see if the original file is a directory if it is not it throws an error because there is no tree to print
         if(!folder.isDirectory()){
             throw new NotDirectoryError("there file is not a directory");
         }
 
-        // the indent increases as the levels of the trees go up
+        // the indent increases as the ry levels of the trees go up
         int indent =0;
         StringBuilder str = new StringBuilder();
         //this is where the tree actually gets built
         printDecTree(folder,indent,str);
-        return str.toString();
+        return str;
     }
 
     /**
