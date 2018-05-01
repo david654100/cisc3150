@@ -1,16 +1,5 @@
+
 +--Desktop/
-|  +--.idea/
-|  |  +--vcs.xml
-|  |  +--workspace.xml
-|  +--2-JS-Basics-Final (1)/
-|  |  +--2-JS-Basics-Final/
-|  |  |  +--.DS_Store
-|  |  |  +--index.html
-|  |  |  +--script.js
-|  |  +--__MACOSX/
-|  |  |  +--._2-JS-Basics-Final
-|  |  |  +--2-JS-Basics-Final/
-|  |  |  |  +--._.DS_Store
 |  +--3d printing/
 |  |  +--bin/
 |  |  |  +--cpfworkrt/
@@ -244,13 +233,6 @@
 |  |  |  +--zoom.png
 |  |  +--slic3r-console.exe
 |  |  +--slic3r.exe
-|  +--5-1-2018/
-|  |  +--DocFile (1).jpg
-|  |  +--DocFile (2).jpg
-|  |  +--DocFile (3).jpg
-|  |  +--DocFile (4).jpg
-|  |  +--DocFile (5).jpg
-|  |  +--DocFile (6).jpg
 |  +--cisc3150/
 |  |  +--.git/
 |  |  |  +--COMMIT_EDITMSG
@@ -309,7 +291,6 @@
 |  |  |  |  |  +--1769cc1bb897839384299a2c66dc004076a7bd
 |  |  |  |  |  +--2b0f9058d8c230513af14a8c6fded7b00e12d6
 |  |  |  |  |  +--61ebd05befd33b86a6e3001eb39002ec26a5a3
-|  |  |  |  |  +--cff35b090961d36ab06ac844abd37b6ba4a186
 |  |  |  |  |  +--d4abbcfddd99d92c4d70754b484a9436f212ab
 |  |  |  |  |  +--e4b67f9f76f2ffb06b09be0b8c59877d0b26ef
 |  |  |  |  +--07/
@@ -333,10 +314,8 @@
 |  |  |  |  +--0c/
 |  |  |  |  |  +--6d0fbeadc796160007039aee4381a5f7ee0613
 |  |  |  |  |  +--985ecd605bb143653c86eff48ebc41e37798ba
-|  |  |  |  |  +--aed6b682314be9627d3c3673fb36e24f718215
 |  |  |  |  |  +--ebc47c700aefbfdd43c647cecdc67a0dac6d58
 |  |  |  |  +--0d/
-|  |  |  |  |  +--ceaab343ae2692c26d6c94c9dfb45d44942d55
 |  |  |  |  |  +--d4b354636ab01a5a9aee4a507c42898cb5b291
 |  |  |  |  |  +--dbce12f52f271bfe939fe276980f06c22ee2b7
 |  |  |  |  +--0f/
@@ -359,14 +338,12 @@
 |  |  |  |  |  +--d86ff9963d02a35c952b55aef351e95fd7f5d0
 |  |  |  |  +--15/
 |  |  |  |  |  +--2d8bbf64b7379ac84702dd3392bf61b6811965
-|  |  |  |  |  +--3cac34a8335f64f620b3cbe9adabe1761fb67d
 |  |  |  |  |  +--8743bec933d08ed745e217f49a63af7bdb2fed
 |  |  |  |  |  +--b7595e4ee162d82cc49d9d68969598f4d40bbe
 |  |  |  |  |  +--c2a95f2ff91c16da8d5e53cfe505c6b63f3994
 |  |  |  |  +--16/
 |  |  |  |  |  +--a9623e2f90cf748dff8a2030f5b5407456bf84
 |  |  |  |  +--17/
-|  |  |  |  |  +--61df4d2e074e3d0f91548691993f5065e318fe
 |  |  |  |  |  +--c4d1bb549d6cabe44873a0268ec27d51e23547
 |  |  |  |  +--19/
 |  |  |  |  |  +--685ccf57c4d4214c6234f4e89540c63104a1cf
@@ -385,18 +362,13 @@
 |  |  |  |  |  +--065bc6b2aa099d340d64dbd924fd13c69d6057
 |  |  |  |  |  +--570c92d0dc42ff5c7ea16df2967450d0bca377
 |  |  |  |  |  +--c40594cf31135c6a6e11447c048f01982e9eda
-|  |  |  |  |  +--fb185dbcbb5059da053f13ba56f1dc8d40d24d
 |  |  |  |  +--20/
-|  |  |  |  |  +--6572876214c7b618a5faacc53fcb517792a364
 |  |  |  |  |  +--f6abcc8ffcff4f4d921620e80c0818dc16b4ee
-|  |  |  |  +--21/
-|  |  |  |  |  +--a9b9ed53586344af5738c6773c3d477c6911c3
 |  |  |  |  +--22/
 |  |  |  |  |  +--87ab14344c75edc741f1ba272f8b006b4edc32
 |  |  |  |  +--23/
 |  |  |  |  |  +--100659c96fe63006e2e4de771203aebb009535
 |  |  |  |  |  +--889884a4986b26a039fecb8e5b0d0900f446ec
-|  |  |  |  |  +--a9f2c8f7082c895322977c010631d21bcca60c
 |  |  |  |  +--24/
 |  |  |  |  |  +--5d3429faae22cba4ef10f7379236b6756defe1
 |  |  |  |  +--25/
@@ -419,7 +391,6 @@
 |  |  |  |  |  +--4f6ecb19bfc2c267f96d2550b40b988502ca7f
 |  |  |  |  |  +--d5aa8a2f6a2b8833c91b7f2c3fa7379bd3adfc
 |  |  |  |  +--2d/
-|  |  |  |  |  +--6eb4184c1836f6279eadf7dc5372aa42cc0593
 |  |  |  |  |  +--e16de12238832ab9991173d189dfc65a1b813e
 |  |  |  |  +--2e/
 |  |  |  |  |  +--1efac0e53bf4a5151ea6dcb4347624ee9a993b
@@ -429,7 +400,6 @@
 |  |  |  |  |  +--3d6e8d01b908086babc898fe68651c60b3c88f
 |  |  |  |  |  +--44b7c070e09c84002cf853a2ffad51794fa4dd
 |  |  |  |  |  +--64f392dcb1d26f7942fc8eab9d8477dfed1e6a
-|  |  |  |  |  +--7af4adaf118f0f232ff8ddf68712140e30fc4b
 |  |  |  |  |  +--a75e865171c9b1099fe47e9a503691d8209862
 |  |  |  |  |  +--d507aaf895c664acfaaffd65830167a6451fb5
 |  |  |  |  |  +--f155356f229a9dc5ef4dae7c44dbd4bf26924b
@@ -437,7 +407,6 @@
 |  |  |  |  +--30/
 |  |  |  |  |  +--45abb2617bff3d8270f82daab9fbfd976cb58d
 |  |  |  |  +--31/
-|  |  |  |  |  +--0ac63b5b07c732c930c7f16a0355c887b261dc
 |  |  |  |  |  +--0e9baee55db6f24caf8c39a1dff4e92f3b36b3
 |  |  |  |  |  +--e8e871ebe454fd213a423e43e00a58622b163d
 |  |  |  |  +--32/
@@ -449,10 +418,8 @@
 |  |  |  |  +--35/
 |  |  |  |  |  +--c87553cbe8d1a2bb29362a8fcabcc785c2585d
 |  |  |  |  +--36/
-|  |  |  |  |  +--320c8a33f0544286d84212d9f97fe766567c61
 |  |  |  |  |  +--483dd8604e9404e17b8bb8f01a47d5470c09f0
 |  |  |  |  |  +--6dcd2b8709998a37749a369f16166506b36f79
-|  |  |  |  |  +--7a0eefe7eaed30a695e47ffe39835efa4e27e9
 |  |  |  |  |  +--7f4978487f2f072f7ff3349cd04a137f04e7b8
 |  |  |  |  +--38/
 |  |  |  |  |  +--05a1542206ef5876b9684a81a25b8ab9397f27
@@ -461,12 +428,10 @@
 |  |  |  |  +--39/
 |  |  |  |  |  +--74f10aca44540058f56c4e069aabf2bc29ed0e
 |  |  |  |  |  +--79007aa6fb9f960a33d4e71213fbc48807f997
-|  |  |  |  |  +--8c0f7ebbf421c3862d23f4510500cccd99c8df
 |  |  |  |  +--3a/
 |  |  |  |  |  +--e56534b1e149123656ab66d3a1287ea41d7da3
 |  |  |  |  +--3b/
 |  |  |  |  |  +--500ec93cda16e44ef4feaf626b2a3c3fe3573a
-|  |  |  |  |  +--641012f0ceb14f448a7853143d37ce528a7318
 |  |  |  |  |  +--702096603fb1a64bf440138c87d4ae84dec3e5
 |  |  |  |  +--3c/
 |  |  |  |  |  +--50bd30e8c9fbf90260f4d72f9888db3c69cabd
@@ -489,7 +454,6 @@
 |  |  |  |  +--41/
 |  |  |  |  |  +--093b6e47e9393a195eb243245a94d45bfa0816
 |  |  |  |  |  +--224582c46925f4de459bb2712e5b1032832324
-|  |  |  |  |  +--7981ba3df4e76815b384e5a19f9a7543d90979
 |  |  |  |  |  +--d02ca9a65f3beda9d6bc97ea01f77914e09469
 |  |  |  |  +--43/
 |  |  |  |  |  +--19f3e495c3a6ea45f443f3ebcc6bba9ef4d7cc
@@ -499,7 +463,6 @@
 |  |  |  |  +--45/
 |  |  |  |  |  +--43a381f3747a628b65a8fa7f0533dbdf587201
 |  |  |  |  +--46/
-|  |  |  |  |  +--77f0295bf8374bcfd152c8944d1d0b0e01cb3d
 |  |  |  |  |  +--b2757153aa4ef3373e2159bef79526d79de24a
 |  |  |  |  +--47/
 |  |  |  |  |  +--55f5e4e879eea6068fbe1c89034ac6d3e1da79
@@ -509,7 +472,6 @@
 |  |  |  |  +--49/
 |  |  |  |  |  +--1e3c38b7f6bdf9102a5bb885bc7ca1dc98821e
 |  |  |  |  |  +--5ee4b1efd9d2a06e2385e9e894e9600465dcd2
-|  |  |  |  |  +--68f815b519c050816415b5dfbf4d90d9b828c3
 |  |  |  |  +--4a/
 |  |  |  |  |  +--d3864e9c8b1c1568e9cfd1e61fa31c13dc6bbf
 |  |  |  |  +--4b/
@@ -524,15 +486,11 @@
 |  |  |  |  |  +--b6ff7fdb855e2cbf2aad502af2e7a52750b15d
 |  |  |  |  |  +--bed0f1f722c6d426becd0d26121a2a8dee8fd0
 |  |  |  |  +--4f/
-|  |  |  |  |  +--a2eb8528d7897208c53d762b782af6e17db216
 |  |  |  |  |  +--b5a5bca1081e07bcd375fff18167b8a04c446e
-|  |  |  |  +--51/
-|  |  |  |  |  +--df2d3d8ee94372b7d504469d5b5944100bc5a9
 |  |  |  |  +--52/
 |  |  |  |  |  +--2d6026e2d3ee47deec37392da3557e72a0e63f
 |  |  |  |  |  +--3c778d32d595450b6bbbb377a54f92e1ab623d
 |  |  |  |  |  +--533ebcfa5ecbe3f0e279986d6d6942657eedf5
-|  |  |  |  |  +--d47746485c2a23345a213bcd37b2fcdf7cbf25
 |  |  |  |  +--53/
 |  |  |  |  |  +--c38ccfcdae945e0e74464475e8e3b4ff413051
 |  |  |  |  +--55/
@@ -549,7 +507,6 @@
 |  |  |  |  |  +--50587f09c69a39baf9edd8023748a6c860a6da
 |  |  |  |  |  +--8781c8c0949158f9ab1198848d9dfcbd508376
 |  |  |  |  +--58/
-|  |  |  |  |  +--44828b2b0795c1a3e3a570a7d921ac97b39119
 |  |  |  |  |  +--8dbb865e9454df65e7cdebe7ad638373098d73
 |  |  |  |  |  +--ee07492a99fd420e293c24e65557ff44dc4a15
 |  |  |  |  +--59/
@@ -582,7 +539,6 @@
 |  |  |  |  +--64/
 |  |  |  |  |  +--1a2605f3ce5d5173f943b134bb86be1f473fc5
 |  |  |  |  |  +--470514354e1f254f4c617df56355820550545b
-|  |  |  |  |  +--a94b4dee4c1ee6c97d319942d409ecceda81ae
 |  |  |  |  +--65/
 |  |  |  |  |  +--086948892e1b233ecc234444a0c022e57ad4e3
 |  |  |  |  |  +--4632be814f5b07f3fa3036787d046ea4cc1fff
@@ -608,12 +564,10 @@
 |  |  |  |  |  +--013afaa803c362d514601690b18536ec4ff2e3
 |  |  |  |  +--6d/
 |  |  |  |  |  +--504732e4727a3a0dbde0e9da2ea80af93b57ff
-|  |  |  |  |  +--8a0d16c63cc366796cd36eac7d1024cf03da8d
 |  |  |  |  +--6e/
 |  |  |  |  |  +--7928cc8b23799dfa2c455ced14698ebe2ad16c
 |  |  |  |  |  +--f6773516f6cb9bcd13d7b2d34a7ab0bc0706a5
 |  |  |  |  +--6f/
-|  |  |  |  |  +--57aaa8941a98fa1d493b0565367b0ed9140802
 |  |  |  |  |  +--a9f0ee8c2034aecc59808e9f3b2d3efe8a4458
 |  |  |  |  +--70/
 |  |  |  |  |  +--e9eb7a3f931234ffd34e9c4df107ee2135f56c
@@ -625,12 +579,10 @@
 |  |  |  |  |  +--dd60d44f835e95f3b8c69ff5554387585e61a5
 |  |  |  |  +--73/
 |  |  |  |  |  +--8f042d7c6bd779d784ae8a29b117d49bbb1f70
-|  |  |  |  |  +--c5ea3e5005c1e707318072ca195c9397d9c42b
 |  |  |  |  +--74/
 |  |  |  |  |  +--c624e7b66ca277e3422016704a556a81811e5a
 |  |  |  |  +--75/
 |  |  |  |  |  +--1fd5efe4e0cb76c2123030727fa3be3a3c2c39
-|  |  |  |  |  +--629630966b54b590b76f242946bd536cfeb09b
 |  |  |  |  |  +--8fd3008a5c03b1c81a90e2aaa82d9e23975775
 |  |  |  |  |  +--d3957cd06a88fa5049b659147d511038d4a256
 |  |  |  |  +--77/
@@ -657,7 +609,6 @@
 |  |  |  |  +--7e/
 |  |  |  |  |  +--0b30fa60886905980189b2340cb156cd870c4e
 |  |  |  |  |  +--e839631f911669f60eaf8811feb833daf29d01
-|  |  |  |  |  +--f926bd7870c88db0ff5978e923fa626a5f114f
 |  |  |  |  +--7f/
 |  |  |  |  |  +--2eb7207540cf74f1b028a3f531138c12c40082
 |  |  |  |  |  +--a947d79a7b952338881b7fe95b119b18060c24
@@ -669,7 +620,6 @@
 |  |  |  |  |  +--1281599452d44c4a1d8832f34a578d1ce5ae26
 |  |  |  |  +--83/
 |  |  |  |  |  +--1690fd72b49dd69d7ec5376bc2f093ca0e1990
-|  |  |  |  |  +--17090834633b492f828a710ed7593c0cd32701
 |  |  |  |  |  +--ae11d637e671ea2bf44b54fe1193778b51a261
 |  |  |  |  |  +--c5e6fd86a575353518aa2c5b02a42adf1f45a4
 |  |  |  |  +--84/
@@ -679,7 +629,6 @@
 |  |  |  |  |  +--4f5975cdf19946c3cd39742d4bc4c4e8c30a1c
 |  |  |  |  |  +--739bfe87405852bebe55cffe547748fb5afe98
 |  |  |  |  |  +--9bfe1f7670aaaffd51d6956bef4bcb6cd8557a
-|  |  |  |  |  +--bf8c8e493f589ed465b2cc924347dcd3da417f
 |  |  |  |  +--86/
 |  |  |  |  |  +--006a8a071dc122e37580794fd4559e3325791c
 |  |  |  |  +--87/
@@ -687,13 +636,9 @@
 |  |  |  |  |  +--61b97a2566f4961a82449deba037aae0c9d8e4
 |  |  |  |  |  +--76abdb9b1f1034e921002e2279e21eab9ffab5
 |  |  |  |  +--88/
-|  |  |  |  |  +--98bb9bd32191a7a7be9e00ae0703cc3ea3f808
 |  |  |  |  |  +--e5450091ee8f44bf249e66469f288b1d9c851a
 |  |  |  |  +--89/
-|  |  |  |  |  +--009214e28887f3eb33fb7b50d9061a9eace971
-|  |  |  |  |  +--1d6252f58f2cccbe81dc2aeecc584a70aed31b
 |  |  |  |  |  +--42406ed68330c2f8542dddff54745646e5c3ac
-|  |  |  |  |  +--64f75788b95006da999108ebc5883a4f0d6bae
 |  |  |  |  |  +--978d90fb51d9336555f551325ede51b55f47a7
 |  |  |  |  |  +--ba80a397587ef4e4bafe04b2c142abd6aa7314
 |  |  |  |  |  +--bf2d7f34aeabfb815bb8f9fc3ce2a7db65463d
@@ -707,7 +652,6 @@
 |  |  |  |  +--8c/
 |  |  |  |  |  +--1a1fc892bff9967f711d3e3c7f8f50962fdbcb
 |  |  |  |  |  +--c6a29668585ae335457a4ac7409e8476dbf358
-|  |  |  |  |  +--eebb629f95ef422236e83803a279e23eb9e03b
 |  |  |  |  +--8d/
 |  |  |  |  |  +--66fe9015aa0f8c44bcda8ce02bab5396c54446
 |  |  |  |  +--90/
@@ -724,8 +668,6 @@
 |  |  |  |  |  +--85f97a1ee9acaa9bbf8640418fb17ed5b08ccc
 |  |  |  |  |  +--b99e67878933fb1e3366478ea2423d58d91d37
 |  |  |  |  +--94/
-|  |  |  |  |  +--0c240dfa7778c4a82fef2220883904a372c516
-|  |  |  |  |  +--31ae1c91212f7fc79d4b36a1ea552ed79703bc
 |  |  |  |  |  +--764c84a188c8b07b243a7d2d4a8245125d70ea
 |  |  |  |  |  +--96290263cf3e9e0c523beca8274b3c362e479f
 |  |  |  |  |  +--b30569d7a65a957f0d93ed54a9aa8abeb4e90b
@@ -745,14 +687,12 @@
 |  |  |  |  |  +--e04bcff2a0484539c42103ba5093f1410b7691
 |  |  |  |  +--99/
 |  |  |  |  |  +--6662976aadffedadfc3de389c7645ee98a348d
-|  |  |  |  |  +--cc897d7cb06b3c01f00c793eff61859ea322a5
 |  |  |  |  +--9a/
 |  |  |  |  |  +--3da051321dd5279f6982ad6cd054fef32e1e83
 |  |  |  |  |  +--a5d61aee8f1dac78c4cb556514ba4fa7de7f1e
 |  |  |  |  |  +--fc6e77198e6931d3306c555446ff31d9d80313
 |  |  |  |  +--9b/
 |  |  |  |  |  +--a96aefa928ee6f46ba52fba0d0b326e48ad872
-|  |  |  |  |  +--d5c77539c50302fe91e15eaf6627834f1b5a73
 |  |  |  |  |  +--dd55374b0fcdb86792aa7eac675d7a93bf816f
 |  |  |  |  +--9c/
 |  |  |  |  |  +--06ec2c6d8c344c3fdf1d355f8bc5344b9610d6
@@ -761,7 +701,6 @@
 |  |  |  |  |  +--5af0ea0c65b4e52dfb984a2a120cea6abb35b8
 |  |  |  |  +--9e/
 |  |  |  |  |  +--0ecd631f227fcd840b1097e78aaf3c700e3710
-|  |  |  |  |  +--b0eaf304d6baa99458777fb9e4ceadd8432fbe
 |  |  |  |  |  +--b855774c7fe7577d8b0b6032bb225416ae5eed
 |  |  |  |  +--9f/
 |  |  |  |  |  +--97bc8c07ee1c96f2bfbae58422ecd1290c8a9b
@@ -775,7 +714,6 @@
 |  |  |  |  |  +--bd5a88995cd4e557071da37ee80b9f86ff0a9a
 |  |  |  |  +--a2/
 |  |  |  |  |  +--2c923da8a4aba4d8de4349a4a4f2ca2a82d06c
-|  |  |  |  |  +--4d221238b1064f7d57e11d9b60a07d72cb437b
 |  |  |  |  +--a3/
 |  |  |  |  |  +--31235ac285d689fa4c19f72bdf351374a99c8b
 |  |  |  |  |  +--59c7a6fec6b05236d160cf9ad7a0343fafc167
@@ -804,8 +742,6 @@
 |  |  |  |  |  +--6d3c08fd1bb316b6cdf6a16e8361dd98f8402e
 |  |  |  |  |  +--dce0cd75c3484afbe030c54c55c32a7aa23555
 |  |  |  |  +--ae/
-|  |  |  |  |  +--41c796e179b1555b6dee961bb298f2ef2f9529
-|  |  |  |  |  +--7e7bcd342ee39c005ab309b8973befde2463f1
 |  |  |  |  |  +--b80aa40e29e66e4a4dadc400a6d47ac211dbde
 |  |  |  |  |  +--fe58ef2bc99abbdcaca8571f73cb1566a1a03b
 |  |  |  |  +--af/
@@ -816,20 +752,15 @@
 |  |  |  |  |  +--bfb892ce27273428171968dd1707aaec7bc4f4
 |  |  |  |  +--b1/
 |  |  |  |  |  +--2b2a8b058cc857056beca530a303a9771ba56d
-|  |  |  |  |  +--5e840925efab5e7593f1ac5e0ce84de5154542
 |  |  |  |  +--b2/
 |  |  |  |  |  +--051da955fc274654b9c2503b41a3966a477680
 |  |  |  |  |  +--640256112c44d7666313d1e9596feb55a30b45
 |  |  |  |  |  +--bdec2d71b6a5ce4ae49efc37516809c50e4d5e
-|  |  |  |  |  +--d45ee1e6a3d88d3c839d10040787f30ae2c48a
 |  |  |  |  +--b3/
-|  |  |  |  |  +--3595e95798aa0f01ad62fd37c598b4d5248550
-|  |  |  |  |  +--390a02793ab58eb2aa54e0e800a263495dca3b
 |  |  |  |  |  +--6ee539e9b38041798e0590585056e75892feec
 |  |  |  |  |  +--8f09ed0cdbd9c2435dae21de8961bde1d781e6
 |  |  |  |  |  +--9916fad902b4cab2f062ce48c27159d5945eee
 |  |  |  |  +--b4/
-|  |  |  |  |  +--753dfcbab8c5a7aaef0b7e5459fc03282ff146
 |  |  |  |  |  +--ab90fff9ab08808df328f97b274ce3e1b30c44
 |  |  |  |  |  +--cad2dc99714658448fc7a42487b7cbe77135a3
 |  |  |  |  |  +--d3dd5ca9d93c042ef93964736a26371abf64db
@@ -843,8 +774,6 @@
 |  |  |  |  |  +--cf19716c80b5a75704144f35810bcafdb373a0
 |  |  |  |  +--b9/
 |  |  |  |  |  +--7757b693624409e7bca7e09dd09883b0684f03
-|  |  |  |  |  +--8d1f13e35b31d82adbb70a73963539397b653b
-|  |  |  |  |  +--f3f232134b780f4fcc6671a7852273c402c6f8
 |  |  |  |  +--bb/
 |  |  |  |  |  +--884161093a15bf40323dc59743ac00871a19cd
 |  |  |  |  |  +--e7feef21eb02ddbe31bda256691c2287cacbaf
@@ -863,7 +792,6 @@
 |  |  |  |  +--c0/
 |  |  |  |  |  +--074cf13e4f95670d8d834c471e124cca61f3e3
 |  |  |  |  |  +--460b4505dde027dca0d6e9b6a8bb9f9699f00a
-|  |  |  |  |  +--5cd71ff02e398251de9f5a6154cbe1ed09e1b1
 |  |  |  |  |  +--c68b495789d42d194afb365c7e188cbb43d90f
 |  |  |  |  +--c1/
 |  |  |  |  |  +--41d9a08fd5ffd1180f3d80aae804f113ca7865
@@ -871,31 +799,24 @@
 |  |  |  |  +--c2/
 |  |  |  |  |  +--3a09a2aca73166c5a5736c351224b505532077
 |  |  |  |  |  +--4f950b35fcadf51ec1b07fdb46d1b7f36f411b
-|  |  |  |  |  +--e7ae77de38696c6d7952dd50a274e7abbd7d5e
 |  |  |  |  |  +--e8517229f34e5c238bf35ed6be32f2488def3b
 |  |  |  |  +--c3/
-|  |  |  |  |  +--a92c07e7c63a717db06948262d7c39cbce729d
 |  |  |  |  |  +--f5887c73f509950c924055f3957f759aaf54c2
 |  |  |  |  +--c4/
 |  |  |  |  |  +--e8bc2397a9de7678af50604acfe91d01837bc0
 |  |  |  |  +--c5/
-|  |  |  |  |  +--203e46e2691af0467fcf2f9d77431c79900578
 |  |  |  |  |  +--2f633abbde3b49990567837f2e096bee782b04
 |  |  |  |  |  +--71f661204998218398e46083a19a6504fa1ce0
 |  |  |  |  |  +--b238eafac71b280e8e0542a78c34ca4d5c1104
 |  |  |  |  +--c6/
 |  |  |  |  |  +--32a29e9d4b15d1438849708ee67d919dcb09bd
-|  |  |  |  |  +--81d2cb250acdd397dfbde837817c01b838153e
 |  |  |  |  +--c7/
 |  |  |  |  |  +--ae71e16321b02a5c0538e4c4a27193f03589e0
 |  |  |  |  |  +--bc51cd9e0116f73591793b826ee8ae8cbe1894
 |  |  |  |  +--c8/
-|  |  |  |  |  +--41a7f184559e3e5ebb54fe291253d46af156dd
-|  |  |  |  |  +--620566a5ba080173c8540f588d7e7ae0114903
 |  |  |  |  |  +--c567e1750cbb7267c1eb75070c2f578054fe4a
 |  |  |  |  |  +--e83c65a72e9bbc1b462bbf41bc6e6dbaed3b35
 |  |  |  |  +--c9/
-|  |  |  |  |  +--222f0ab8145f00dcd19ee6c2d1c29929e57546
 |  |  |  |  |  +--22a80b4d5a5c5c0d5f490a8bc0fea520180621
 |  |  |  |  +--ca/
 |  |  |  |  |  +--0f4b2d8f2a89e7943307454153d96fe4d66e27
@@ -903,7 +824,6 @@
 |  |  |  |  |  +--50ebafcff4ac8bd41aff092c27be8593a6e7da
 |  |  |  |  |  +--841efa40f9d8e7751fc1e5d8bf848043dc9964
 |  |  |  |  +--cb/
-|  |  |  |  |  +--7fba4caed3416255cf54a175ce792ee12547af
 |  |  |  |  |  +--a01438423eb956a6a7ff9c6f180ae2787996d6
 |  |  |  |  |  +--c191925e8d8cda804e5770f9bfa8f2a3acacf5
 |  |  |  |  +--cc/
@@ -930,7 +850,6 @@
 |  |  |  |  |  +--7d637c0d02415942f399bc790f71d123e3253b
 |  |  |  |  +--d4/
 |  |  |  |  |  +--396768d126bea7ba15882ab3c05b6c63dc7a99
-|  |  |  |  |  +--7ba978338708f82493d667cdf0fc66f0a9d6d1
 |  |  |  |  |  +--abfbe3f36b0a062b82af63be1d2d64fd2ee27f
 |  |  |  |  |  +--b8ad09d508877aa0421aff06e1492e996c2598
 |  |  |  |  +--d5/
@@ -940,7 +859,6 @@
 |  |  |  |  |  +--fd214a31b5e64c8ce7ba4290a21a9d7e16279a
 |  |  |  |  +--d7/
 |  |  |  |  |  +--2db2a1a5183304183ccd16653c4d2f8d72c430
-|  |  |  |  |  +--4380ebf5dbe5eacc64fd1039510a4096042fca
 |  |  |  |  +--d8/
 |  |  |  |  |  +--1c05c02e3cbc756cd784a28c850d4b21df00d3
 |  |  |  |  |  +--26062ec25cf9fde58f8eb3bba61520e83f4b78
@@ -954,7 +872,6 @@
 |  |  |  |  +--da/
 |  |  |  |  |  +--0f787997deff8120dde4426a60f9e74569bef1
 |  |  |  |  |  +--211775b0fcef875303362816748e25c14fa046
-|  |  |  |  |  +--536ace5a3c57922e2603d4611b79fc83718f98
 |  |  |  |  +--db/
 |  |  |  |  |  +--bd29cb7b0cfcfe2e2a1e051918c6ab65d40015
 |  |  |  |  +--dc/
@@ -1000,11 +917,9 @@
 |  |  |  |  +--eb/
 |  |  |  |  |  +--32643f42e3124325e10e61c5af7689f8fd6a5d
 |  |  |  |  |  +--716e3688fcc44e6de44fb9f78f93593a1c7b12
-|  |  |  |  |  +--86d8d50436c82cc35fc12edd4e9bea9c79b3ed
 |  |  |  |  |  +--a1110b5794582b53554bb1e4224b860d4e173f
 |  |  |  |  |  +--cf35507e1bd0cf988276f7ea03c81305acbd37
 |  |  |  |  +--ec/
-|  |  |  |  |  +--15a91aa487841208235786654c2d7539855355
 |  |  |  |  |  +--ac9e45d7f9a3f1592a555ee4f78fe8a5735c35
 |  |  |  |  +--ed/
 |  |  |  |  |  +--4f074d25f56b451d34901c31b91439f6c0f4bb
@@ -1030,15 +945,10 @@
 |  |  |  |  |  +--24b8b2fd2fdd512b59d2c6003ee2fd6b5e7697
 |  |  |  |  |  +--3e5bbaedfa37f943c8efd39e1131205e8841a0
 |  |  |  |  |  +--52700f73a9db2f0f58eb443a2c346a54ea80ef
-|  |  |  |  |  +--c0250144625fc83d6966ef5bc75c7cef3d227d
 |  |  |  |  |  +--cbaf45cd6ecbde96b63d2a486591dbca1fcec9
 |  |  |  |  +--f4/
 |  |  |  |  |  +--50f65082b706a3b5f49e6ab05f4804c2480500
-|  |  |  |  +--f5/
-|  |  |  |  |  +--e5c6edbd211799cb12520270f75df179809b09
 |  |  |  |  +--f6/
-|  |  |  |  |  +--032ec10c39f80efbccc29a2a0ae36fab26c9ac
-|  |  |  |  |  +--88f7c36c7deb4ead56c4c005f42afa327baa27
 |  |  |  |  |  +--c02a3fd09df51e850b537695fa05316c4d4e83
 |  |  |  |  |  +--e7a30ad66ca5842def05d974c5ceceecdab2cf
 |  |  |  |  |  +--ec389b4577b3044020f5f693f5893fa812d8b0
@@ -1047,7 +957,6 @@
 |  |  |  |  |  +--3a3e1142dd5ef7baacc7961c3ec5dfd5de2c47
 |  |  |  |  +--f8/
 |  |  |  |  |  +--752f4b0e6bb7e9c3ade94fc6a27362bdc31a8d
-|  |  |  |  |  +--7a4d6884835c95bd6d666e44a5db484cde44bd
 |  |  |  |  |  +--8d8c9f89c5f5fd74f9134124fa4368507d9c90
 |  |  |  |  +--f9/
 |  |  |  |  |  +--8ac2778568c0e5f690b5f8f112f6c56e184fc9
@@ -1060,7 +969,6 @@
 |  |  |  |  |  +--079cdfcc5312b04b7246f186b8c1141509b5a3
 |  |  |  |  |  +--148e26b902f67c949fccb8b3a63f722d9828ed
 |  |  |  |  |  +--51142d6bede9e6e3eb34cb3cef959c54b77681
-|  |  |  |  |  +--a68ff260f32bb9bb662b3124b809e94949c524
 |  |  |  |  +--fe/
 |  |  |  |  |  +--7d92cfc8118b18de32c4a9ce128ae2ef0f60d2
 |  |  |  |  |  +--a1c14704a10b88710e3f2973188940f36e4226
@@ -1201,7 +1109,6 @@
 |  |  |  |  |  |  |  |  |  +--question3.java
 |  |  |  |  |  |  |  |  |  +--question3Output.txt
 |  |  |  |  |  |  |  +--question4/
-|  |  |  |  |  |  |  |  +--question4.class
 |  |  |  |  |  |  |  |  +--question4.java
 |  |  |  |  |  |  |  |  +--question4Imput.txt
 |  |  |  |  |  |  |  |  +--question4Output.txt
@@ -1284,7 +1191,6 @@
 |  |  |  |  |  +--MonteCalro2.java
 |  |  |  |  |  +--montecarlo1 time .txt
 |  |  |  |  |  +--MonteCarlo1.java
-|  |  |  |  |  +--MonteCarlo3.class
 |  |  |  |  |  +--MonteCarlo3.java
 |  |  |  |  |  +--optimiztions.txt
 |  |  |  |  |  +--output.txt
@@ -1315,18 +1221,14 @@
 |  |  |  |  |  +--modules.xml
 |  |  |  |  |  +--vcs.xml
 |  |  |  |  |  +--workspace.xml
-|  |  |  |  +--fileOutput.txt
 |  |  |  |  +--HW8.iml
 |  |  |  |  +--out/
 |  |  |  |  |  +--production/
 |  |  |  |  |  |  +--HW8/
 |  |  |  |  |  |  |  +--NotDirectoryError.class
-|  |  |  |  |  |  |  +--output.txt
 |  |  |  |  |  |  |  +--tree.class
+|  |  |  |  +--output.txt
 |  |  |  |  +--src/
-|  |  |  |  |  +--NotDirectoryError.class
-|  |  |  |  |  +--output.txt
-|  |  |  |  |  +--tree.class
 |  |  |  |  |  +--tree.java
 |  |  |  +--messingaround/
 |  |  |  |  +--.idea/
@@ -1418,17 +1320,9 @@
 |  |  |  |  |  +--misc.xml
 |  |  |  |  |  +--modules.xml
 |  |  |  |  |  +--workspace.xml
-|  |  |  |  +--out/
-|  |  |  |  |  +--production/
-|  |  |  |  |  |  +--workforchapter2/
-|  |  |  |  |  |  |  +--FileInformation.class
-|  |  |  |  |  |  |  +--test.txt
 |  |  |  |  +--src/
-|  |  |  |  |  +--FileInformation.class
-|  |  |  |  |  +--FileInformation.java
 |  |  |  |  |  +--question1/
 |  |  |  |  |  |  +--question1.java
-|  |  |  |  |  +--test.txt
 |  |  |  |  +--workforchapter2.iml
 |  |  +--README.md
 |  +--coding stuff/
@@ -1510,8 +1404,8 @@
 |  +--david benzaquen resume.docx
 |  +--david benzaquen resume.pdf
 |  +--david benzaquen transcript.pdf
+|  +--Deck - U_W Approach.txt
 |  +--desktop.ini
-|  +--dr. ben shiping information part 1.pdf
 |  +--games/
 |  |  +--Cuphead.lnk
 |  |  +--Home/
@@ -1533,7 +1427,6 @@
 |  |  +--XCOM 2.url
 |  +--Google Drive.lnk
 |  +--Homework7.zip
-|  +--HW8.zip
 |  +--internship/
 |  |  +--aplication question responce .docx
 |  |  +--application question reponse David Benzaquen.pdf
@@ -5370,20 +5263,10 @@
 |  |  |  |  |  |  +--20180428_234222_Two Player Duel_2.txt
 |  |  |  |  |  |  +--20180429_085137_Two Player Duel_1.txt
 |  |  |  |  |  |  +--20180429_090113_Two Player Duel_2.txt
-|  |  |  |  |  |  +--20180429_162836_Two Player Duel_1.txt
-|  |  |  |  |  |  +--20180429_215447_Two Player Duel_1.txt
-|  |  |  |  |  |  +--20180429_221220_Two Player Duel_2.txt
-|  |  |  |  |  |  +--20180429_221744_Two Player Duel_3.txt
-|  |  |  |  |  |  +--20180430_162329_Two Player Duel_1.txt
-|  |  |  |  |  |  +--20180430_163758_Two Player Duel_1.txt
-|  |  |  |  |  |  +--20180430_164204_Two Player Duel_2.txt
-|  |  |  |  |  |  +--20180430_164839_Two Player Duel_3.txt
 |  |  |  |  |  +--gamelogsJson/
 |  |  |  |  |  |  +--game-00dfbece-e236-42cc-8a19-3a8078b18979.json
 |  |  |  |  |  |  +--game-014b266b-583d-4a74-856c-8840c7db6253.json
-|  |  |  |  |  |  +--game-14e24af5-ede7-4e29-b741-487ac0a4a862.json
 |  |  |  |  |  |  +--game-1e9647d3-38ca-4534-849e-071b14f4d829.json
-|  |  |  |  |  |  +--game-221fd74a-e424-4157-9191-84c18c398c3a.json
 |  |  |  |  |  |  +--game-2516d582-e769-44fc-8402-4f871fd754c8.json
 |  |  |  |  |  |  +--game-25318322-f57f-4d21-ac5b-9aa1b86953e9.json
 |  |  |  |  |  |  +--game-2aacb667-b3e9-436b-83a0-d7efc6f8a565.json
@@ -5393,11 +5276,9 @@
 |  |  |  |  |  |  +--game-485adbd2-b000-4a92-b891-c6f63e9a3a23.json
 |  |  |  |  |  |  +--game-4fcd6136-d4f7-4ef8-867b-4d57fe5d3342.json
 |  |  |  |  |  |  +--game-51955116-5416-40ce-abf0-540828a571b1.json
-|  |  |  |  |  |  +--game-5393c96e-d5b2-4320-a1ce-41a4b392f710.json
 |  |  |  |  |  |  +--game-56e7e8fe-40de-4576-b4c1-b2a5884782aa.json
 |  |  |  |  |  |  +--game-5b001a27-3578-4525-ba6c-251222cd5d9c.json
 |  |  |  |  |  |  +--game-61ea8674-986d-4202-9ee9-af54133da7c0.json
-|  |  |  |  |  |  +--game-664993d7-6c5f-4bb0-8791-f5fcf5b3d200.json
 |  |  |  |  |  |  +--game-6bb89ea6-a006-4106-aeba-2cc3083cc630.json
 |  |  |  |  |  |  +--game-73f60e29-ac06-4965-9d91-033b01b0f795.json
 |  |  |  |  |  |  +--game-784d80e1-223c-45a5-b479-7b7616486214.json
@@ -5405,13 +5286,9 @@
 |  |  |  |  |  |  +--game-8f9464c3-3710-4d64-85c1-dbd7b64dc094.json
 |  |  |  |  |  |  +--game-948dfc04-d90d-4689-b252-e5d56f6874f9.json
 |  |  |  |  |  |  +--game-a04e980e-766c-4f74-951a-c85afd119e2c.json
-|  |  |  |  |  |  +--game-a86c9ae5-7050-4c30-940c-fcad21627339.json
 |  |  |  |  |  |  +--game-b20cc4ef-bfff-43a1-abb0-9ac8d99409dd.json
-|  |  |  |  |  |  +--game-b7c84c8b-cbbf-448e-9440-89bf5c29aa09.json
 |  |  |  |  |  |  +--game-c4ebd1df-2b39-4964-a2bf-23c503186b79.json
-|  |  |  |  |  |  +--game-c91fa3ce-2e76-49e2-8108-92e4f133628d.json
 |  |  |  |  |  |  +--game-cc54a068-9a33-41eb-9c8a-5d250661ec4f.json
-|  |  |  |  |  |  +--game-cfeb51a4-d33e-4120-992e-cd85f0d9caf0.json
 |  |  |  |  |  |  +--game-d488598f-95c9-4b9a-bc2e-50c255af8626.json
 |  |  |  |  |  |  +--game-dc4b7f3a-9996-4a73-8bc6-704f9cd49b9c.json
 |  |  |  |  |  |  +--game-e7c1e0c1-d0af-43de-aaaa-ef6e71427e0c.json
@@ -7475,7 +7352,7 @@
 |  |  |  |  |  |  |  |  |  +--Antonio's Sliver aNAYAlation.dck
 |  |  |  |  |  |  |  |  |  +--Connor Gerace's Red Deck Wins.dck
 |  |  |  |  |  |  |  |  |  +--David's Essence Tokens.dck
-|  |  |  |  |  |  |  |  |  +--Douglas Scheinberg's S�ance Combo.dck
+|  |  |  |  |  |  |  |  |  +--Douglas Scheinberg's S?ance Combo.dck
 |  |  |  |  |  |  |  |  |  +--Erick Lavandier's Naya Flicker.dck
 |  |  |  |  |  |  |  |  |  +--Gavin Verhey's (Mostly) Naya Slivers.dck
 |  |  |  |  |  |  |  |  |  +--Glenn Cariaga's Stronic Midrange.dck
@@ -7536,7 +7413,7 @@
 |  |  |  |  |  |  |  |  +--GP Guadalajara (May 26)/
 |  |  |  |  |  |  |  |  |  +--Andres Martinez's Reanimator.dck
 |  |  |  |  |  |  |  |  |  +--Emiliano Sanchez's Reanimator.dck
-|  |  |  |  |  |  |  |  |  +--Emmanuel Ram�rez's Reanimator.dck
+|  |  |  |  |  |  |  |  |  +--Emmanuel Ram?rez's Reanimator.dck
 |  |  |  |  |  |  |  |  |  +--Juan Carlos Castillo Mata's Aristocrats.dck
 |  |  |  |  |  |  |  |  |  +--Ken Yukihiro's Domri Naya.dck
 |  |  |  |  |  |  |  |  |  +--Manuel Monge Hernandez's Reanimator.dck
@@ -7545,7 +7422,7 @@
 |  |  |  |  |  |  |  |  +--GP Quebec City/
 |  |  |  |  |  |  |  |  |  +--Derek Foot's Jund Aggro.dck
 |  |  |  |  |  |  |  |  |  +--Felipe Tapia Becerra's Jund Zombies.dck
-|  |  |  |  |  |  |  |  |  +--Fr�d�ric Mercier's Esper Control.dck
+|  |  |  |  |  |  |  |  |  +--Fr?d?ric Mercier's Esper Control.dck
 |  |  |  |  |  |  |  |  |  +--Justin Cheung's UWR.dck
 |  |  |  |  |  |  |  |  |  +--Maxime Cantin's Jund Control.dck
 |  |  |  |  |  |  |  |  |  +--Nico Christiansen's Naya Humans.dck
@@ -7557,7 +7434,7 @@
 |  |  |  |  |  |  |  |  |  +--Wilson Wong's Jund.dck
 |  |  |  |  |  |  |  |  +--GP Verona/
 |  |  |  |  |  |  |  |  |  +--Andreas Nilsson's Rakdos.dck
-|  |  |  |  |  |  |  |  |  +--J�r�my Dezani's Jund Midrange.dck
+|  |  |  |  |  |  |  |  |  +--J?r?my Dezani's Jund Midrange.dck
 |  |  |  |  |  |  |  |  |  +--Max Schultze's The Legion (UWR Reckoner).dck
 |  |  |  |  |  |  |  |  |  +--Mike Krasnitski's Junk Reanimator).dck
 |  |  |  |  |  |  |  |  |  +--Piotr Wald's UWR.dck
@@ -7627,8 +7504,8 @@
 |  |  |  |  |  |  |  |  |  +--Loic Le Briand's Reanimator.dck
 |  |  |  |  |  |  |  |  |  +--Maxime Gilles' UWr Miracles.dck
 |  |  |  |  |  |  |  |  |  +--Paulo Vitor Damo da Rosa's UWr Miracles.dck
-|  |  |  |  |  |  |  |  |  +--Philipp Sch�negger's Miracles.dck
-|  |  |  |  |  |  |  |  |  +--Stefan B�ttcher's Deathblade.dck
+|  |  |  |  |  |  |  |  |  +--Philipp Sch?negger's Miracles.dck
+|  |  |  |  |  |  |  |  |  +--Stefan B?ttcher's Deathblade.dck
 |  |  |  |  |  |  |  +--Modern/
 |  |  |  |  |  |  |  |  +--DailyMTG Top Decks/
 |  |  |  |  |  |  |  |  |  +--Bo Sun's Burn.dck
@@ -7649,7 +7526,7 @@
 |  |  |  |  |  |  |  |  |  |  +--White-Black-Red Burn - Phillip Gorz.dck
 |  |  |  |  |  |  |  |  |  |  +--White-Blue Tron - Kirby Kaufman.dck
 |  |  |  |  |  |  |  |  +--GP Richmond/
-|  |  |  |  |  |  |  |  |  +--James Cady � UWR Splinter Twin.dck
+|  |  |  |  |  |  |  |  |  +--James Cady ? UWR Splinter Twin.dck
 |  |  |  |  |  |  |  |  +--MTGO Reconstructed/
 |  |  |  |  |  |  |  |  |  +--Casting Emrakul on Turn Three/
 |  |  |  |  |  |  |  |  |  |  +--Adam Minniear's Pox-Rock.dck
@@ -7690,12 +7567,12 @@
 |  |  |  |  |  |  |  |  |  |  +--Mark Ian Alloso's Barely Rakdos Humans.dck
 |  |  |  |  |  |  |  |  |  |  +--Yuta Suzuki's Flickering Freak.dck
 |  |  |  |  |  |  |  |  +--DailyMTG ReConstructed Enchantress to Meet You/
-|  |  |  |  |  |  |  |  |  +--Ajani Nakano�s Infinite Ajani.dck
-|  |  |  |  |  |  |  |  |  +--Colin Reilly�s Quadruple Strike.dck
-|  |  |  |  |  |  |  |  |  +--Devon Straub�s The One-ders.dck
-|  |  |  |  |  |  |  |  |  +--Gavin Verhey�s Nyxchantress.dck
+|  |  |  |  |  |  |  |  |  +--Ajani Nakano?s Infinite Ajani.dck
+|  |  |  |  |  |  |  |  |  +--Colin Reilly?s Quadruple Strike.dck
+|  |  |  |  |  |  |  |  |  +--Devon Straub?s The One-ders.dck
+|  |  |  |  |  |  |  |  |  +--Gavin Verhey?s Nyxchantress.dck
 |  |  |  |  |  |  |  |  |  +--Jak Gem's Constellation Recursion.dck
-|  |  |  |  |  |  |  |  |  +--Mahdi Fozi�s UR One-shot combo.dck
+|  |  |  |  |  |  |  |  |  +--Mahdi Fozi?s UR One-shot combo.dck
 |  |  |  |  |  |  |  |  +--GP Stockholm 2014-11/
 |  |  |  |  |  |  |  |  |  +--Alexander Pasgaard - Jeskai.dck
 |  |  |  |  |  |  |  |  |  +--Christian Seibold - Sidisi.dck
@@ -8444,13 +8321,5 @@
 |  |  |  |  +--startMage.sh
 |  |  |  |  +--startMageWin7.bat
 |  |  |  +--XMageLauncher-0.3.8.jar
-|  +--OpenHardwareMonitor/
-|  |  +--Aga.Controls.dll
-|  |  +--License.html
-|  |  +--OpenHardwareMonitor.config
-|  |  +--OpenHardwareMonitor.exe
-|  |  +--OpenHardwareMonitor.exe.config
-|  |  +--OpenHardwareMonitorLib.dll
-|  |  +--OxyPlot.dll
-|  |  +--OxyPlot.WindowsForms.dll
-|  +--QtSpim.lnk
+
+P

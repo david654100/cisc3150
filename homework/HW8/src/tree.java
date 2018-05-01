@@ -1,23 +1,25 @@
 
-import java.io.BufferedWriter;
+
 import java.io.IOException;
 import java.io.File;
-import  java.io.*;
+import org.apache.commons.io.FileUtils;
 
 public class tree {
     public static void main(String[] args) throws IOException {
 
         //opens the file using the pth name
         File folder = new File("\\C:\\Users\\david\\Desktop");
-        StringBuilder treePrintOut;
+        String treePrintOut;
         //this calls the function that will make the fill tree
         treePrintOut=printTree(folder);
-        System.out.print(treePrintOut.toString());
-       FileWriter fw = new FileWriter("fileOutput.txt");
-       BufferedWriter bw = new BufferedWriter(fw);
-        bw.append(treePrintOut);
+        System.out.print(treePrintOut);
+       /*PrintWriter ps= new PrintWriter(new FileWriter("FileOutput.txt"));
 
+      ps.write(treePrintOut);
+        */
 
+       File outputfile= new File("outputtest.txt");
+       FileUtils.writeStringToFile(outputfile,treePrintOut);
 
 
 
@@ -30,7 +32,7 @@ public class tree {
      * @param folder this is the folder that will be printed
      * @return the fully built file tree string
      */
-    public static StringBuilder printTree(File folder){
+    public static String printTree(File folder){
         //tests to see if the original file is a directory if it is not it throws an error because there is no tree to print
         if(!folder.isDirectory()){
             throw new NotDirectoryError("there file is not a directory");
@@ -41,7 +43,7 @@ public class tree {
         StringBuilder str = new StringBuilder();
         //this is where the tree actually gets built
         printDecTree(folder,indent,str);
-        return str;
+        return str.toString();
     }
 
     /**
@@ -81,7 +83,7 @@ public class tree {
         sb.append(getIndentString(indent));
         sb.append("+--");
         sb.append(file.getName());
-        sb.append("\n");
+        sb.append(System.getProperty("line.separator"));
     }
 
     /**
@@ -92,7 +94,7 @@ public class tree {
     private static String getIndentString(int indent) {
         StringBuilder str = new StringBuilder();
         for (int i = 0; i < indent; i++) {
-            str.append("|  ");
+            str.append("|   ");
         }
         return str.toString();
     }
