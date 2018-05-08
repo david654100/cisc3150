@@ -1,0 +1,2 @@
+The reason why this doent work is because the NotifyALL only wakes up threads it doent unlock them. They are put into a lock but never unlocked then throws the error IllegalMonitorStateException.
+To fix this you just need to use the key word synchronize.  
