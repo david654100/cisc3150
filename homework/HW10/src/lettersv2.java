@@ -45,13 +45,14 @@ class printerOne extends locker implements Runnable {
                     System.out.println(letterPrinter(letters.count));
                     letters.count.addAndGet(1);
                     lockTwo.signal();
-                    lockOne.await();
+                    try {
+                        lockOne.await();
+                    } catch (Throwable e) {
+                    }
                 }
-                else if (lettersv2.count.get()>=26){
+                else
                     lettersv2.running.getAndSet(false);
-               }
-
-                }catch (Throwable e){}
+               } catch (Throwable e){}
 
 
 
@@ -77,8 +78,9 @@ class printerTwo extends locker implements Runnable {
                     lockThree.signal();
                     lockTwo.await();
                 }
-                else if (lettersv2.count.get()>=26){
+                else {
                     lettersv2.running.getAndSet(false);
+
                 }
 
             }catch (Throwable e){}
@@ -110,7 +112,7 @@ class printerThree extends locker implements Runnable {
                     lockFour.signal();
                     lockThree.await();
                 }
-                else if (lettersv2.count.get()>=26){
+                else {
                     lettersv2.running.getAndSet(false);
                 }
 
@@ -141,7 +143,7 @@ class printerFour extends locker implements Runnable {
                     lockOne.signal();
                     lockFour.await();
                 }
-                else if (lettersv2.count.get()>=26){
+                else {
                     lettersv2.running.getAndSet(false);
                 }
 
